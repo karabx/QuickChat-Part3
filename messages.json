@@ -1,7 +1,16 @@
-[{
-    "recipient": "+27718693002",
-    "messageID": "3177658953",
-    "messageHash": "31:0:TESTMESSAGE",
-    "message": "Test store message",
-    "status": "Stored"
-}]
+[
+    {
+        "messageID": "placeholder",
+        "messageHash": "placeholder",
+        "recipient": "+27838884567",
+        "message": "Where are you? You are late! I have asked you to be on time.",
+        "status": "Stored"
+    },
+    {
+        "messageID": "placeholder2",
+        "messageHash": "placeholder2",
+        "recipient": "+27838884567",
+        "message": "Ok, I am leaving without you.",
+        "status": "Stored"
+    }
+]
